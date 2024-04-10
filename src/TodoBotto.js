@@ -1,6 +1,8 @@
+import './TodoBotto.css'
+
 function TodoBottom() {
     return (
-        <button>Crear tarea</button>
+        <button className="CreateTodoButton">+</button>
     )
 }
 
